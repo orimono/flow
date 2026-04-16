@@ -1,0 +1,6 @@
+{
+  "addr": ":8082",
+  "database_url": "postgres://postgres:postgres@localhost:5432/postgres",
+  "nats_url": "nats://localhost:4222",
+  "request_timeout": "15s"
+}
